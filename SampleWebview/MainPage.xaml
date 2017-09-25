@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SampleWebview"
+             x:Class="SampleWebview.MainPage">
+
+    <!--<StackLayout>
+        <Label Text="WebView"/>
+        <WebView x:Name="WebView1" Visibility="Collapsed" Source="http://google.com" VerticalOptions="FillAndExpand"/>
+
+
+    </StackLayout>-->
+    <!--<StackLayout>
+        <ProgressBar  Progress="0.2" IsVisible="false" HorizontalOptions="FillAndExpand" x:Name="activity_indicator"  />
+
+        <WebView VerticalOptions="FillAndExpand" Navigating="OnNavigating" Navigated="OnNavigated" HorizontalOptions="FillAndExpand" x:Name="loadVideo_wv">
+        </WebView>
+    </StackLayout>-->
+    <!--<StackLayout>
+        <Label x:Name="LoadingLabel"
+        Text="Loading..."
+        HorizontalOptions="Center"
+        isVisible="true"
+               TextColor="Black"/>
+        <WebView x:Name="Browser" Source="https://github.com/"
+      HeightRequest="1000"
+      WidthRequest="1000"
+                 VerticalOptions="FillAndExpand"
+                 HorizontalOptions="FillAndExpand"
+                 Navigated="OnNavigated"
+      />
+    </StackLayout>-->
+    <!--<Label Text="webview"/>-->
+
+</ContentPage>

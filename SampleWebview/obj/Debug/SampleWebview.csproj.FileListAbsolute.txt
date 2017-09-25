@@ -1,0 +1,17 @@
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\bin\Debug\SampleWebview.dll
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\bin\Debug\SampleWebview.pdb
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\bin\Debug\Xamarin.Forms.Core.dll
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\bin\Debug\Xamarin.Forms.Platform.dll
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\bin\Debug\Xamarin.Forms.Core.pdb
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\bin\Debug\Xamarin.Forms.Core.xml
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\obj\Debug\SampleWebview.csprojResolveAssemblyReference.cache
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\obj\Debug\SampleWebview.MainPage.xaml.g.cs
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\obj\Debug\SampleWebview.App.xaml.g.cs
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\obj\Debug\SampleWebview.dll
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\obj\Debug\SampleWebview.pdb
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\obj\Debug\SampleWebview.dll.mdb
+D:\visual studio projects\SampleWebview\SampleWebview\SampleWebview\bin\Debug\SampleWebview.dll.mdb
